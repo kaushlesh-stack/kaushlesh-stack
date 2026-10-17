@@ -27,29 +27,47 @@
 
 ---
 
-## `01` // ABOUT_ME
+## `01` // WHO_AM_I 👨‍💻
 
-```bash
-$ whoami
-Kaushlesh Kumar
+<div align="center">
 
-$ cat current_status.txt
-Building React.js and Vanilla JavaScript projects.
-Expanding my frontend and backend development skills.
-Practicing Data Structures and Algorithms.
-Learning and improving my Java, C++, and Python skills.
+### `> Hello, World! I'm Kaushlesh Kumar`
 
-$ cat interests.txt
-- Clean code and scalable architecture
-- Web application development
-- Problem solving and DSA
-- Building useful software projects
+*Aspiring Software Engineer | Developer | Lifelong Learner*
 
-$ cat mission.txt
-Learn continuously. Build consistently. Ship quality.
-```
+`Building ideas into reality, one line of code at a time.`
+
+</div>
 
 ---
+
+```yaml
+name: Kaushlesh Kumar
+role: Aspiring Software Engineer
+currently:
+  - Building projects with React.js and JavaScript
+  - Practicing Data Structures & Algorithms
+  - Improving Java, C++, and Python
+interests:
+  - Full-Stack Development
+  - Problem Solving
+  - Clean Code & Scalable Applications
+mindset: "Learn → Build → Improve → Repeat"
+```
+
+### ⚡ A little about me
+
+- 💻 I enjoy turning ideas into useful web applications.
+- 🌱 I'm continuously improving my frontend, backend, and problem-solving skills.
+- 🧠 I believe consistency beats perfection.
+- 🚀 My goal is to build real-world projects and grow as a software engineer.
+
+<div align="center">
+
+**`while (learning) { keepBuilding(); }`**
+
+</div>
+
 
 ## `02` // TECH_STACK
 
