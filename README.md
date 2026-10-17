@@ -123,7 +123,7 @@ Interested in development, collaboration, Building project or exchanging ideas?
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kaushlesh-kumar-687461400?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-  <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
 <a href="https://www.instagram.com/barnwalritvik?vrfl=MTg3MzYxMDhzdXRzeg==">
